@@ -11,17 +11,18 @@ description: 本教程介绍全新创建一个移动单据，以及如果简单�
 
 ##  **【新建移动单据】**  
 
-新建移动单据步骤：打开BOSIDE -》 打开子系统 -》 新建移动单据。![](http://clubimg.kingdee.com/club/attachments/forum/201803/02/1519959551ofpvzy4d4xyda1ecc5zu5cn1dx5u5n1j.png)
+新建移动单据步骤：打开BOSIDE -》 打开子系统 -》 新建移动单据。
 
-![](http://clubimg.kingdee.com/club/attachments/forum/201803/02/1519959869qo5axcc500ka6mafq4629m27ztr95xka.png)  
+![&#x521B;&#x5EFA;&#x79FB;&#x52A8;&#x5355;&#x636E;](http://clubimg.kingdee.com/club/attachments/forum/201803/02/1519959551ofpvzy4d4xyda1ecc5zu5cn1dx5u5n1j.png)
 
+![&#x79FB;&#x52A8;&#x5355;&#x636E;&#x8BBE;&#x8BA1;&#x754C;&#x9762;](http://clubimg.kingdee.com/club/attachments/forum/201803/02/1519959869qo5axcc500ka6mafq4629m27ztr95xka.png)
 
 ## **【选择来源单据】**
 
-选择绑定来源单据，本示例用销售订单。
+选择绑定来源单据，本示例用销售订单。  
 
-![](http://clubimg.kingdee.com/club/attachments/forum/201803/02/1519960249z60r6f00cbqe0gbzlcz4bpp5a0zk44pv.png)  
 
+![](http://clubimg.kingdee.com/club/attachments/forum/201803/02/1519960249z60r6f00cbqe0gbzlcz4bpp5a0zk44pv.png)
 
 ## **【单据列表】**
 
@@ -59,7 +60,9 @@ description: 本教程介绍全新创建一个移动单据，以及如果简单�
 
 ![](http://clubimg.kingdee.com/club/attachments/forum/201803/02/1519972777g9gze1ll1ewol1c8lllgpp1rblpcpzgg.png)
 
-## **【列表过滤】**[移动单据列表过滤示例](http://club.kingdee.com/forum.php?mod=viewthread&tid=1344069)
+## **【列表过滤】**
+
+\*\*\*\*[移动单据列表过滤示例](http://club.kingdee.com/forum.php?mod=viewthread&tid=1344069)
 
 ## **【单据详情】**
 
@@ -87,11 +90,15 @@ description: 本教程介绍全新创建一个移动单据，以及如果简单�
 
 
 
-3、分录布局设计，选择分录要显示的字段，往移动代理分录添加流式布局，调整高宽，设置方向和内边距，在往布局里添加移动代理字段。如下图：
+### 3、分录布局设计：
+
+选择分录要显示的字段，往移动代理分录添加流式布局，调整高宽，设置方向和内边距，在往布局里添加移动代理字段。如下图：
 
 ![](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520241470pvi08pvs0gx0bpe04ppixi4pbx0ppz94.png)
 
-4、设计单据菜单和操作，先添加底部菜单，再设置菜单集合，后绑定表单操作。
+### 4、设计单据菜单和操作，
+
+先添加底部菜单，再设置菜单集合，后绑定表单操作。
 
 ![](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520242348wdd9d7989d9h880cncr8yhy78y9hyrh9.png)
 
@@ -99,29 +106,29 @@ description: 本教程介绍全新创建一个移动单据，以及如果简单�
 
 
 
-5、实际运行效果
+### 5、实际运行效果
 
 ![](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520243375mmomwfmm30oo7mvvwsvm7awm0wmom7w3.png)
 
 ## **【移动分录新增、修改、删除】**
 
-定义菜单移动分录操作菜单，并绑定操作。选中移动代理分录，属性栏中设置手势管理，弹出手势管理框，定义菜单并绑定操作，**注：分录行的编辑修改建议通过弹出分录编辑界面的形式实现**。  
-1、新增分录按钮定义，新增分录操作绑定：
+定义菜单移动分录操作菜单，并绑定操作。选中移动代理分录，属性栏中设置手势管理，弹出手势管理框，定义菜单并绑定操作，**注：分录行的编辑修改建议通过弹出分录编辑界面的形式实现**。
+
+###  1、新增分录按钮定义，新增分录操作绑定：
 
 ![](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520243242q3r7y40p7r43z0c0063x444i8p0bpcsz.png)
 
-2、修改、删除分录手势菜单定义和修改、删除分录操作绑定：
-
-  
-3、运行效果
+### 2、修改、删除分录手势菜单定义和修改、删除分录操作绑定：
 
 ![](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520243001mh87we9h7pewyl7b7r8pb2x7xx9w7z1c.png)
+
+### 3、运行效果
 
 ![](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520243473zbtiw7ihcdccj74y5mym5tt6zzw7yi7i.png)
 
 * **点击新增分录或修改菜单弹出分录编辑界面** 
 
-![](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520243547ybbob3bxjmduouuiiuomnsxucysytby0.png)
+![&#x5206;&#x5F55;&#x7F16;&#x8F91;&#x754C;&#x9762;](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520243547ybbob3bxjmduouuiiuomnsxucysytby0.png)
 
 ## **【移动单据分录字段设置】**
 
