@@ -2,6 +2,8 @@
 
 * [金蝶云星空--移动BOS](README.md)
 * [简介](jian-jie.md)
+* [移动表单](yi-dong-biao-dan.md)
+* [移动单据](yi-dong-dan-ju.md)
 * [开发](kai-fa/README.md)
   * [移动表单](kai-fa/yi-dong-biao-dan.md)
   * [移动单据](kai-fa/yi-dong-dan-ju.md)
