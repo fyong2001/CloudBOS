@@ -71,3 +71,8 @@ namespace LKD.MobileDemoPlugins
 
 ### 7、[移动BOS中如何打开一个网页链接](http://club.kingdee.com/forum.php?mod=viewthread&tid=1095930)
 
+## 【附件】
+
+      [移动附件\_上传篇-6.0版本以上](http://club.kingdee.com/forum.php?mod=viewthread&tid=1147545)  
+      [移动附件\_下载篇-6.0版本以上](http://club.kingdee.com/forum.php?mod=viewthread&tid=1147567)
+

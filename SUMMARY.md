@@ -24,7 +24,7 @@
   * [App标签打印](yi-dong-da-yin/app-biao-qian-da-yin.md)
 * [业务审批](ye-wu-shen-pi/README.md)
   * [移动平台单据启用设置](ye-wu-shen-pi/yi-dong-ping-tai-dan-ju-qi-yong-she-zhi.md)
-  * [单据编辑](ye-wu-shen-pi/dan-ju-bian-ji.md)
+  * [移动单据编辑](ye-wu-shen-pi/dan-ju-bian-ji.md)
 * [集成](shi-shi/README.md)
   * [云之家集成](shi-shi/yun-zhi-jia-ji-cheng-1.md)
   * [微信集成](shi-shi/wei-xin-ji-cheng.md)
