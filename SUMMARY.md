@@ -7,6 +7,7 @@
   * [移动BOS开发技巧](yi-dong-biao-dan/yi-dong-bos-kai-fa-ji-qiao.md)
   * [自定义基础资料](yi-dong-biao-dan/zi-ding-yi-ji-chu-zi-liao.md)
   * [移动特性接口](yi-dong-biao-dan/yi-dong-te-xing-jie-kou.md)
+  * [底部菜单插件开发](yi-dong-biao-dan/di-bu-cai-dan-cha-jian-kai-fa.md)
 * [移动单据](yi-dong-dan-ju/README.md)
   * [移动单据设计](yi-dong-dan-ju/yi-dong-dan-ju-kai-fa-jiao-cheng.md)
   * [移动单据列表插件](yi-dong-dan-ju/yi-dong-dan-ju-lie-biao-cha-jian.md)
