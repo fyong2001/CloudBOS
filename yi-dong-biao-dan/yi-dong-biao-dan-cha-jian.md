@@ -14,8 +14,7 @@ description: 移动表单插件
 
 ## **【代码示例】**
 
-  
-1、字段取值、赋值：
+### 1、插件示例：
 
 ```text
 using Kingdee.BOS.Mobile.PlugIn;
@@ -60,16 +59,15 @@ namespace LKD.MobileDemoPlugins
 }
 ```
 
-  
-2、[控件属性设置代码示例](http://club.kingdee.com/forum.php?mod=viewthread&tid=1237879)
+###  2、[控件属性设置代码示例](http://club.kingdee.com/forum.php?mod=viewthread&tid=1237879)
 
-3、[移动列表行格式示例代码](http://club.kingdee.com/forum.php?mod=viewthread&tid=1407890)
+### 3、[移动列表行格式示例代码](http://club.kingdee.com/forum.php?mod=viewthread&tid=1407890)
 
-4、[底部菜单属性设置代码示例](http://club.kingdee.com/forum.php?mod=viewthread&tid=1186906)
+### 4、[底部菜单属性设置代码示例](http://club.kingdee.com/forum.php?mod=viewthread&tid=1186906)
 
-5、[调用移动端特性功能示例代码（定位、扫描等）](http://club.kingdee.com/forum.php?mod=viewthread&tid=1097311)
+### 5、[调用移动端特性功能示例代码（定位、扫描等）](http://club.kingdee.com/forum.php?mod=viewthread&tid=1097311)
 
-6、[移动BOS中如何响应点击发短信和打电话](http://club.kingdee.com/forum.php?mod=viewthread&tid=1323498)
+### 6、[移动BOS中如何响应点击发短信和打电话](http://club.kingdee.com/forum.php?mod=viewthread&tid=1323498)
 
-7、[移动BOS中如何打开一个网页链接](http://club.kingdee.com/forum.php?mod=viewthread&tid=1095930)
+### 7、[移动BOS中如何打开一个网页链接](http://club.kingdee.com/forum.php?mod=viewthread&tid=1095930)
 
