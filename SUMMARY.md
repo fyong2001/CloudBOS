@@ -12,7 +12,6 @@
   * [Untitled](yi-dong-dan-ju/untitled.md)
 * [移动单据列表](yi-dong-dan-ju-lie-biao.md)
 * [代码示例](kai-fa/README.md)
-  * [移动表单](kai-fa/yi-dong-biao-dan.md)
   * [移动单据](kai-fa/yi-dong-dan-ju.md)
   * [移动表单插件](kai-fa/yi-dong-biao-dan-cha-jian.md)
   * [移动单据列表插件](kai-fa/yi-dong-dan-ju-lie-biao-cha-jian.md)

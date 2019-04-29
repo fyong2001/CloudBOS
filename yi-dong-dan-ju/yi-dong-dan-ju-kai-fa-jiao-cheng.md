@@ -84,12 +84,6 @@ description: 本教程介绍全新创建一个移动单据，以及如果简单�
 
 ![&#x6DFB;&#x52A0;&#x79FB;&#x52A8;&#x4EE3;&#x7406;&#x5206;&#x5F55;](http://clubimg.kingdee.com/club/attachments/forum/201803/05/1520240783a6ozinb6sb6ouh6o00c0go4nos88sn0u.png)
 
-
-
-
-
-
-
 ### 3、分录布局设计：
 
 选择分录要显示的字段，往移动代理分录添加流式布局，调整高宽，设置方向和内边距，在往布局里添加移动代理字段。如下图：
@@ -168,6 +162,8 @@ description: 本教程介绍全新创建一个移动单据，以及如果简单�
 插件注册和PC端的一样，如下图：
 
 ![](http://clubimg.kingdee.com/club/attachments/forum/201804/11/1523414378ohcba6aaaabsrb968ab9chhhafbfshza.png)
+
+
 
 ## **【发布移动主控台】**
 
