@@ -1,7 +1,6 @@
 # Table of contents
 
-* [金蝶云星空--移动BOS](README.md)
-* [简介](jian-jie.md)
+* [简介](README.md)
 * [移动表单](yi-dong-biao-dan/README.md)
   * [移动表单设计](yi-dong-biao-dan/yi-dong-biao-dan-kai-fa-jiao-cheng.md)
   * [移动表单插件](yi-dong-biao-dan/yi-dong-biao-dan-cha-jian.md)
