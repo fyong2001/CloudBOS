@@ -1,6 +1,6 @@
 # Table of contents
 
-* [简介](README.md)
+* [移动BOS说明](README.md)
 * [移动表单](yi-dong-biao-dan/README.md)
   * [移动表单设计](yi-dong-biao-dan/yi-dong-biao-dan-kai-fa-jiao-cheng.md)
   * [移动表单插件](yi-dong-biao-dan/yi-dong-biao-dan-cha-jian.md)
