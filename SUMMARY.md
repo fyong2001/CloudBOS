@@ -30,7 +30,7 @@
 * [移动特性接口](yi-dong-te-xing-jie-kou/README.md)
   * [扫码](yi-dong-te-xing-jie-kou/sao-ma.md)
   * [地图](yi-dong-te-xing-jie-kou/di-tu.md)
-  * [如何响应点击发短信和打电话](yi-dong-te-xing-jie-kou/qi-ta.md)
+  * [发短信和打电话](yi-dong-te-xing-jie-kou/qi-ta.md)
 * [业务审批](ye-wu-shen-pi/README.md)
   * [移动平台单据启用设置](ye-wu-shen-pi/yi-dong-ping-tai-dan-ju-qi-yong-she-zhi.md)
   * [单据编辑](ye-wu-shen-pi/dan-ju-bian-ji.md)
