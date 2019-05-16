@@ -22,7 +22,7 @@
   * [图表式报表](yi-dong-bao-biao/tu-biao-shi-bao-biao.md)
 * [移动打印](yi-dong-da-yin/README.md)
   * [云之家打印](yi-dong-da-yin/yun-zhi-jia-da-yin.md)
-  * [App标签打印](yi-dong-da-yin/app-biao-qian-da-yin.md)
+  * [Android App标签打印](yi-dong-da-yin/app-biao-qian-da-yin.md)
 * [业务审批](ye-wu-shen-pi/README.md)
   * [移动平台单据启用设置](ye-wu-shen-pi/yi-dong-ping-tai-dan-ju-qi-yong-she-zhi.md)
   * [移动单据编辑](ye-wu-shen-pi/dan-ju-bian-ji.md)
