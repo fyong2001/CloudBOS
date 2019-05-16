@@ -4,7 +4,7 @@ description: 扫码、地图、短信、电话等移动特性接口
 
 # 移动特性接口
 
-## 1、二维码、条码扫描 
+## 【二维码、条码扫描】
 
 ```text
 //点击扫描二维码
@@ -19,7 +19,7 @@ public override void AfterCodeScan(string e)
 }
 ```
 
-## 2、移动客户端地图定位 
+## 【移动客户端地图定位】
 
 ```text
 public override void AfterButtonClick(AfterButtonClickEventArgs e)
@@ -33,7 +33,7 @@ public override void AfterMobileClientLocated(MobileClientLocatedEventArgs e)
 }
 ```
 
-## 3、发短信和打电话 
+## 【发短信和打电话】
 
 ### 1 、首先我们来看看如何打电话 
 
