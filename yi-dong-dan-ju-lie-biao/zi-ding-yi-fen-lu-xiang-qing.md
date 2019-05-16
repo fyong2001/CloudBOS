@@ -8,7 +8,7 @@ description: 自定义分录详情
   
 
 
-#### **【新建移动分录详情表单】**
+## **【新建移动分录详情表单】**
 
   
 如下图所示新建移动表单，**表单继承自“MOB\_EntryDetailBase”基类表单**  
@@ -16,7 +16,7 @@ description: 自定义分录详情
   
 
 
-#### **【编写移动表单插件】**
+## **【编写移动表单插件】**
 
   
 插件必须继承**基类插件“EntryDetailBaseEdit”**，如下图示例代码：
@@ -123,7 +123,7 @@ namespace LKD.MobileDemoPlugins
 }
 ```
 
-#### **【注册插件】**
+## **【注册插件】**
 
 注册上一步编写好的插件  
 ![](https://vip.kingdee.com/download?fileName=01008892589168274243babeb74826429273.png)  
@@ -131,7 +131,7 @@ namespace LKD.MobileDemoPlugins
   
 
 
-#### **【设置自定义分录详情】**
+## **【设置自定义分录详情】**
 
   
 如下图所示，选择分录详情表单（**选中“移动分录”，在属性栏中找到“分录详情”，点开属性编辑框，选中前面设计好的分录详情表单。**）  
@@ -140,7 +140,7 @@ namespace LKD.MobileDemoPlugins
   
 
 
-#### **【运行时效果】**
+## **【运行时效果】**
 
 ![](https://vip.kingdee.com/download?fileName=0100901b354593784e0abc3eef6420fe86ab.png)
 
